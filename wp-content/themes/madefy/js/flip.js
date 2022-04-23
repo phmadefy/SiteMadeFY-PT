@@ -1,0 +1,10 @@
+var card = document.getElementsByClassName("card")
+
+card[0].addEventListener("mouseover", (e) => { card[0].classList.toggle('flip') })
+card[1].addEventListener("mouseover", (e) => { card[1].classList.toggle('flip') })
+card[2].addEventListener("mouseover", (e) => { card[2].classList.toggle('flip') })
+card[3].addEventListener("mouseover", (e) => { card[3].classList.toggle('flip') })
+card[4].addEventListener("mouseover", (e) => { card[4].classList.toggle('flip') })
+card[5].addEventListener("mouseover", (e) => { card[5].classList.toggle('flip') })
+card[6].addEventListener("mouseover", (e) => { card[6].classList.toggle('flip') })
+card[7].addEventListener("mouseover", (e) => { card[7].classList.toggle('flip') })

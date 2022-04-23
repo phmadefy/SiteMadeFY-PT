@@ -1,0 +1,35 @@
+[23-Jun-2021 13:00:49 UTC] Erro de banco de dados do WordPress Unknown column 'smdfy_' in 'field list' para a consulta SELECT smdfy_
+[23-Jun-2021 13:00:49 UTC] Erro de banco de dados do WordPress Incorrect table name '' para a consulta INSERT INTO `` (`option_name`, `option_value`, `autoload`) VALUES ('nonce_key', 'gpGBsWy!AV[+ROJ6j6w~RP~{$Ehdn hh>kS,}r~*I=go1sLIrfkeiDGqv~Bo#tL~', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) feita por wp_print_scripts, wp_scripts, WP_Scripts->__construct, WP_Scripts->init, do_action_ref_array('wp_default_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_default_scripts, wp_create_nonce, wp_hash, wp_salt, update_site_option, update_network_option, add_network_option, add_option
+[23-Jun-2021 13:00:49 UTC] Erro de banco de dados do WordPress Incorrect table name '' para a consulta INSERT INTO `` (`option_name`, `option_value`, `autoload`) VALUES ('nonce_salt', 'Pa^ }i}o=2wy6+D_-n79v:]o3]Y%h;uB]h;}7&WU.A*;D.3q,/u|uynmc12WUFbX', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) feita por wp_print_scripts, wp_scripts, WP_Scripts->__construct, WP_Scripts->init, do_action_ref_array('wp_default_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_default_scripts, wp_create_nonce, wp_hash, wp_salt, update_site_option, update_network_option, add_network_option, add_option
+[16-Feb-2022 15:32:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/dani7778/madefy.com.br/madefy2021/wp-includes/functions.php on line 8387
+[16-Feb-2022 15:32:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_die() in /home1/dani7778/madefy.com.br/madefy2021/wp-includes/class-wp-fatal-error-handler.php:233
+Stack trace:
+#0 /home1/dani7778/madefy.com.br/madefy2021/wp-includes/class-wp-fatal-error-handler.php(152): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#1 /home1/dani7778/madefy.com.br/madefy2021/wp-includes/class-wp-fatal-error-handler.php(57): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#2 [internal function]: WP_Fatal_Error_Handler->handle()
+#3 {main}
+  thrown in /home1/dani7778/madefy.com.br/madefy2021/wp-includes/class-wp-fatal-error-handler.php on line 233
+[16-Feb-2022 15:32:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/dani7778/madefy.com.br/madefy2021/wp-includes/functions.php on line 8387
+[16-Feb-2022 15:32:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_die() in /home1/dani7778/madefy.com.br/madefy2021/wp-includes/class-wp-fatal-error-handler.php:233
+Stack trace:
+#0 /home1/dani7778/madefy.com.br/madefy2021/wp-includes/class-wp-fatal-error-handler.php(152): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#1 /home1/dani7778/madefy.com.br/madefy2021/wp-includes/class-wp-fatal-error-handler.php(57): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#2 [internal function]: WP_Fatal_Error_Handler->handle()
+#3 {main}
+  thrown in /home1/dani7778/madefy.com.br/madefy2021/wp-includes/class-wp-fatal-error-handler.php on line 233
+[16-Feb-2022 15:32:53 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/dani7778/madefy.com.br/madefy2021/wp-includes/functions.php on line 8387
+[16-Feb-2022 15:32:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_die() in /home1/dani7778/madefy.com.br/madefy2021/wp-includes/class-wp-fatal-error-handler.php:233
+Stack trace:
+#0 /home1/dani7778/madefy.com.br/madefy2021/wp-includes/class-wp-fatal-error-handler.php(152): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#1 /home1/dani7778/madefy.com.br/madefy2021/wp-includes/class-wp-fatal-error-handler.php(57): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#2 [internal function]: WP_Fatal_Error_Handler->handle()
+#3 {main}
+  thrown in /home1/dani7778/madefy.com.br/madefy2021/wp-includes/class-wp-fatal-error-handler.php on line 233
+[16-Feb-2022 15:32:57 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/dani7778/madefy.com.br/madefy2021/wp-includes/functions.php on line 8387
+[16-Feb-2022 15:32:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_die() in /home1/dani7778/madefy.com.br/madefy2021/wp-includes/class-wp-fatal-error-handler.php:233
+Stack trace:
+#0 /home1/dani7778/madefy.com.br/madefy2021/wp-includes/class-wp-fatal-error-handler.php(152): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#1 /home1/dani7778/madefy.com.br/madefy2021/wp-includes/class-wp-fatal-error-handler.php(57): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#2 [internal function]: WP_Fatal_Error_Handler->handle()
+#3 {main}
+  thrown in /home1/dani7778/madefy.com.br/madefy2021/wp-includes/class-wp-fatal-error-handler.php on line 233
