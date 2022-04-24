@@ -20,7 +20,7 @@
                      <a href="https://www.instagram.com/madefyoficial/" target="_blank">
                          <img src="<?php bloginfo('template_url'); ?>/img/layout-2/instagram.png" alt="">
                      </a>
-                     <a href="https://api.whatsapp.com/send/?phone=5562981778771&text=Ol%C3%A1%21+%0AEstou+vindo+atrav%C3%A9s+do+site+da+MadeFY.+Gostaria+de+saber+mais+%C3%A0+respeito+dos+servi%C3%A7os+oferecidos+pela+empresa%21&app_absent=0" target="_blank">
+                     <a href="https://api.whatsapp.com/send/?phone=351933131131&text=Ol%C3%A1%21+%0AEstou+vindo+atrav%C3%A9s+do+site+da+MadeFY.+Gostaria+de+saber+mais+%C3%A0+respeito+dos+servi%C3%A7os+oferecidos+pela+empresa%21&app_absent=0" target="_blank">
                          <img src="<?php bloginfo('template_url'); ?>/img/layout-2/whats.png" alt="">
                      </a>
                  </div>
