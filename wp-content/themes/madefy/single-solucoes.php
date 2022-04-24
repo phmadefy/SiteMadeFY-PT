@@ -48,7 +48,7 @@
                             <input type="email" name="email" class="form-control" placeholder="E-mail" required>
                         </div>
                         <textarea name="mensagem" class="form-control" rows="5" placeholder="Mensagem" required></textarea>
-                        <div class="g-recaptcha" data-sitekey="6LeC6Y8bAAAAABTpmKiwLioHOLtbeyS_iwULKd1e"></div>
+                        <div class="g-recaptcha" data-sitekey="6Lf12JgfAAAAAKoYbmP3xlzRMHEB2a7yNTC6qwkN"></div>
                         <button type="submit">Enviar</button>
                     </form>
                 </div>
