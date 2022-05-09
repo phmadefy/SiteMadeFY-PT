@@ -9,7 +9,7 @@
                  <p>Portugal +351 933 131 131</p>
                  <p>Brasil +55 62 3507-3447</p>
                  <h4>Email</h4>
-                 <p> <a href="mailto: contato@madefy.pt" target="_blank" class="footer-email">contato@madefy.pt</a></p>
+                 <p> <a href="mailto: contato@madefy.com.br" target="_blank" class="footer-email">contato@madefy.com.br</a></p>
                  <div class="redes-footer">
                      <a href="https://www.linkedin.com/company/madefy/" target="_blank">
                          <img src="<?php bloginfo('template_url'); ?>/img/layout-2/linkedin.png" alt="">
