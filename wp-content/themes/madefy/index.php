@@ -193,7 +193,7 @@
                 <h2>Blog</h2>
             </div>
             <?php
-            query_posts('post_type=post&posts_per_page=2');
+            query_posts('post_type=post&posts_per_page=1');
             if (have_posts()) : while (have_posts()) : the_post();
             ?>
                     <div class="post">
